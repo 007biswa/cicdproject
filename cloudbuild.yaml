@@ -34,4 +34,4 @@ steps:
       
 images:
   - 'us-central1-docker.pkg.dev/oval-turbine-495504-h2/biswa-repo:$BUILD_ID'
-logsBucket: "gs://amitow23comp"
+logsBucket: "gs://lab9-log-archive-biswa"
